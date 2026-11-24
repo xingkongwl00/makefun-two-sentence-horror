@@ -2,7 +2,7 @@ from pathlib import Path
 
 """Two-sentence horror story for a make.fun bounty."""
 
-JOKE = "Draft: two-sentence horror story pending final review."
+JOKE = "The house was always warm, even in winter. Tonight the thermostat read 'outside'."
 
 OUTPUT_DIR = Path("/output")
 
